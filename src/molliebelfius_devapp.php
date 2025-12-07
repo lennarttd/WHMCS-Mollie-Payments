@@ -9,7 +9,7 @@ function molliebelfius_devapp_config()
     $config = array_merge($config, array(
         'FriendlyName' => array(
             'Type' => 'System',
-            'Value' => 'Mollie Belfius'
+            'Value' => 'Mollie Belfius Pay Button'
         )
     ));
 

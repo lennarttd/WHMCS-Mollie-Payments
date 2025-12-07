@@ -9,7 +9,7 @@ function mollieideal_devapp_config()
     $config = array_merge($config, array(
         'FriendlyName' => array(
             'Type' => 'System',
-            'Value' => 'Mollie iDeal'
+            'Value' => 'Mollie iDEAL'
         )
     ));
 
